@@ -1,3 +1,8 @@
+"""
+AI for Conservation Project: DINO V3
+by Tripp Lyons
+"""
+
 from tqdm import tqdm
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import roc_curve, auc
